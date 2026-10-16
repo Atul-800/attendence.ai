@@ -1,0 +1,32 @@
+[
+  {
+    "roll": "001",
+    "name": "suryansh tiwari",
+    "attendance_5_days": ["Present", "Present", "Absent", "Present", "Present"],
+    "total_days": 5
+  },
+  {
+    "roll": "002",
+    "name": "Priya Singh",
+    "attendance_5_days": ["Present", "Absent", "Absent", "Present", "Present"],
+    "total_days": 5
+  },
+  {
+    "roll": "003",
+    "name": "Rahul Verma",
+    "attendance_5_days": ["Present", "Present", "Present", "Present", "Present"],
+    "total_days": 5
+  },
+  {
+    "roll": "004",
+    "name": "Sneha Gupta",
+    "attendance_5_days": ["Absent", "Present", "Present", "Absent", "Present"],
+    "total_days": 5
+  },
+  {
+    "roll": "005",
+    "name": "Amit Kumar",
+    "attendance_5_days": ["Present", "Present", "Absent", "Absent", "Present"],
+    "total_days": 5
+  }
+]
